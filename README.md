@@ -27,7 +27,11 @@ Um prompt personalizado foi configurado para orientar o modelo a identificar a n
 ![Prompt Configurado](./.github/image-2.png)  
 
 Após o modelo gerar a primeira resposta, os argumentos da função são validados e enviados para execução. O resultado da API é enviado novamente para o modelo, que por fim exime uma nova mensagem ao usuário no chat, como demonstrado na imagem:  
-![Validação e Resultado](./.github/image-4.png)  
+![Validação ](./.github/image-4.png)  
+
+O resultado da interação pode ser vista na imagem a seguir:
+![Resultado](./.github/image-3.png)  
+
 
 ---
 
